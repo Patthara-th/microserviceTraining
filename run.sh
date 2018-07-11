@@ -8,5 +8,5 @@ go test -v -cover -coverprofile=coverage.out ./...
 go install main
 
 export GOPATH=$OLDGOPATH
-
+#aaa
 #sh run.sh

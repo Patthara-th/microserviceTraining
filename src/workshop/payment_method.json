@@ -1,0 +1,8 @@
+{
+    "method": [
+        {
+            "paymentType": "credit card",
+            "paymentURL": "https://aaa.com"
+        }
+    ]
+}

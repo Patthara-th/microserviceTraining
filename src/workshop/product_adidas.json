@@ -1,0 +1,13 @@
+{
+    "numberOfResult": 100,
+    "product": [
+        {
+            "name": "Adidas",
+            "originalPrice": 3000,
+            "salePrice": 2000,
+            "rating": 5,
+            "productID": 1001,
+            "catagory": "sport"
+        }
+    ]
+}
